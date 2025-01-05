@@ -5,6 +5,6 @@ USED TECHNOLOGIES
 - HTML 
 - CSS
 
--- Learner at Coding Ninjas --
+
 Cheers;
 Domingos Quipaca
